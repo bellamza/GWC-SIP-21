@@ -117,17 +117,24 @@ In this example, "href" is the attribute name, and "www.youtube.com" is the attr
 
 The image tag is especially unique because it can take on many different attributes at a time, and it does not contain a closing tag. For a simple example of the different ways you can implement images into your websites, check out this [link](https://www.w3schools.com/tags/tag_img.asp)!
 
+### Repl.it Keyboard Shortcuts
+
+Here are some keyboard shortcuts you can use while coding with HTML on repl.it that can save you time:
+
+* No need to type out the HTML tags! 
+  * Instead of typing `<p>` type `p` and press enter! 
+  * instead of typing `<img src=...>` type`img` and press enter!
+  * and so on!
+* Did you accidentally delete the provided HTML documentation formatting?
+  * No worries, type `!` and press enter!
+* Did you accidentally delete something important? 
+  * You can save it! Press `command+z` on Mac or `ctrl+z` on Windows!
+
 ## All Done!
 
 And with that information, you're all set to get exploring on your own! Feel free to check out the challenge section below if you are looking for new ways to spice up your website!
 
-### Compilation of Resources
 
-[Girls Who Code Slides](https://docs.google.com/presentation/d/1CVQ2FHkQj9oaSyJAcJ2_lJHmOP2FEjDmTBjYhpUKDeE/edit?usp=sharing)
-
-[HTML Tags](https://www.w3schools.com/tags/default.asp)
-
-[Image Tag Explained](https://www.w3schools.com/tags/tag_img.asp)
 
 
 
@@ -176,7 +183,13 @@ Chocolate Chip: [https://images-gmi-pmc.edge-generalmills.com/087d17eb-500e-4b26
 {% endtab %}
 {% endtabs %}
 
+## Compilation of Resources
 
+[Girls Who Code Slides](https://docs.google.com/presentation/d/1CVQ2FHkQj9oaSyJAcJ2_lJHmOP2FEjDmTBjYhpUKDeE/edit?usp=sharing)
+
+[HTML Tags](https://www.w3schools.com/tags/default.asp)
+
+[Image Tag Explained](https://www.w3schools.com/tags/tag_img.asp)
 
 
 
