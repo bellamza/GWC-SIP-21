@@ -20,6 +20,30 @@ CSS \(Cascading Style Sheets\) is used to make the website look beautiful. Befor
 A well-written HTML file that is neatly organized will make styling the website with CSS much easier and more enjoyable.
 {% endhint %}
 
+### Real-World Examples
+
+To give you a better idea of times you may have experienced HTML, I've provided some examples.
+
+![](.gitbook/assets/instagram.jpg)
+
+![](.gitbook/assets/target.jpg)
+
+![](.gitbook/assets/spotify.jpg)
+
+All three of these platforms use HTML to deliver content to their users. However, it is important to note that while HTML is a very powerful tool, CSS is styling the page. Here is an example of what I mean:
+
+With HTML and CSS:
+
+![](.gitbook/assets/targetnocss.jpg)
+
+Without CSS: 
+
+![](.gitbook/assets/targetnostyle.png)
+
+The Target site still has all of it's functionality and displays all of the required information, however, the website is no longer condensed, images are not formatted, and fonts are not set. What other differences do you notice?
+
+
+
 ### Coding in HTML
 
 In this section, we will go over the fundamentals of HTML.
@@ -41,7 +65,7 @@ Tags are used to tell the computer what kind of content the coder \(you\) is wan
 ```
 
 {% hint style="info" %}
-Notice how each tag \(except for break\) has an opening tag \(ex. &lt;p&gt;\) and a closing tag \(ex. &lt;/p&gt;\). This is the common structure for most HTML tags!
+Notice how each tag \(except for break\) has an opening tag \(ex. &lt;p&gt;\) and a closing tag \(ex. &lt;/p&gt;\). This is the common structure for most but not all HTML tags!
 {% endhint %}
 
  [You can find more HTML Tags here!](https://www.w3schools.com/tags/default.asp)
@@ -57,6 +81,10 @@ Every attribute has a **name** and a **value**. Here is an example using an anch
 ```
 
 In this example, "href" is the attribute name, and "www.youtube.com" is the attribute value!
+
+#### &lt;img&gt; Tag
+
+The image tag is especially unique because it can take on many different attributes at a time, and it does not contain a closing tag. For a simple example of the different ways you can implement images into your websites, check out this [link](https://www.w3schools.com/tags/tag_img.asp)!
 
 
 
