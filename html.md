@@ -22,3 +22,41 @@ A well-written HTML file that is neatly organized will make styling the website 
 
 ### Coding in HTML
 
+In this section, we will go over the fundamentals of HTML.
+
+#### Tags
+
+Tags are used to tell the computer what kind of content the coder \(you\) is wanting to display. Here are some examples of tags in HTML:
+
+```markup
+<p>This is the paragraph tag! You can use this for displaying text!</p>
+<h1>This is a heading tag! You can use this to display text as headers!</h1>
+<h2>Also a heading tag! </h2>
+<h3>Another heading tag! Heading tags go all the way up to h6!</h3>
+<div>This is a div tag! You can use this to section off information! </div>
+<br> ^ This is a break tag! You can use it to make a break in text!
+<!-- This is a comment tag! You can use it to help other coders navigate through your code or to set reminders for yourself! -->
+
+
+```
+
+{% hint style="info" %}
+Notice how each tag \(except for break\) has an opening tag \(ex. &lt;p&gt;\) and a closing tag \(ex. &lt;/p&gt;\). This is the common structure for most HTML tags!
+{% endhint %}
+
+ [You can find more HTML Tags here!](https://www.w3schools.com/tags/default.asp)
+
+#### Tags, but with _Attributes_
+
+Some tags call for extra information in order to be entirely useful. This extra information is provided in what is called an **attribute**. 
+
+Every attribute has a **name** and a **value**. Here is an example using an anchor tag, which is used for links:
+
+```markup
+<a href="www.youtube.com"> Click here to go to Youtube! </a>
+```
+
+In this example, "href" is the attribute name, and "www.youtube.com" is the attribute value!
+
+
+
