@@ -28,19 +28,19 @@ To give you a better idea of times you may have experienced HTML, I've provided 
 
 ![Spotify Webplayer](.gitbook/assets/spotify.jpg)
 
-These platforms use HTML to deliver content to their users. However, it is important to note that while HTML is a very powerful tool, CSS is styling the page. Here is an example of what I mean:
+These platforms, along with any other website, use HTML to deliver content to their users. However, it is important to note that while HTML is a very powerful tool, CSS is styling the page. Here is an example of what I mean:
 
-**With HTML and CSS:**
+{% tabs %}
+{% tab title="With CSS and HTML" %}
+![Target Landing Page](.gitbook/assets/targetnocss.jpg)
+{% endtab %}
 
-![](.gitbook/assets/targetnocss.jpg)
+{% tab title="With HTML but Without CSS" %}
+![Target Landing Page](.gitbook/assets/targetnostyle.png)
+{% endtab %}
+{% endtabs %}
 
-**With HTML but without CSS:** 
-
-![](.gitbook/assets/targetnostyle.png)
-
-The Target site still has all of its functionality and displays all of the required information, however, the website is no longer condensed, images are not formatted, and fonts are not set. What other differences do you notice?
-
-
+While the page without CSS still has all of its functionality and the user is still able to decipher the information presented to them, it's missing color, fonts, and the page looks more verticle. Do you notice any other differences?
 
 ## Coding in HTML
 
@@ -119,5 +119,68 @@ The image tag is especially unique because it can take on many different attribu
 
 ## All Done!
 
-And with that information, you're all set to get exploring on your own! 
+And with that information, you're all set to get exploring on your own! Feel free to check out the challenge section below if you are looking for new ways to spice up your website!
+
+### Compilation of Resources
+
+[Girls Who Code Slides](https://docs.google.com/presentation/d/1CVQ2FHkQj9oaSyJAcJ2_lJHmOP2FEjDmTBjYhpUKDeE/edit?usp=sharing)
+
+[HTML Tags](https://www.w3schools.com/tags/default.asp)
+
+[Image Tag Explained](https://www.w3schools.com/tags/tag_img.asp)
+
+
+
+## Challenge
+
+Here are some ideas of ways to take your website to the next level using HTML:
+
+* Learn how to use buttons!
+* Figure out how to make a data table on your website!
+* Try to figure out how to add audio to your website!
+
+{% hint style="info" %}
+If you don't know where to start, try looking through the[ list of HTML tags](https://www.w3schools.com/tags/tag_table.asp). Since content is sorted by tags, you are bound to find something useful there!
+{% endhint %}
+
+## Tips on Getting Started
+
+* If you aren't sure where to start, consider thinking of a topic for your website first! 
+  * If you can't come up with a topic, websites about a hobby of yours, sports, animals, or even food are fantastic ideas!
+* So you have your topic, now what? You can...
+  * Give your website a title!
+  * Add some images!
+  * Create some links!
+* Are you having trouble being creative?
+  * No worries, you can make your website as generic as you want right now, and change it up when an idea comes to mind.
+* If you're feeling uncreative, you can recreate this page I coded:
+
+{% tabs %}
+{% tab title="Webpage" %}
+![](.gitbook/assets/screen-shot-2020-12-27-at-2.53.25-pm.png)
+{% endtab %}
+
+{% tab title="Image Addresses" %}
+These are the links to the images I used:
+
+  
+Oatmeal Raisin: [https://i2.wp.com/www.twosisterscrafting.com/wp-content/uploads/2017/08/the-best-ever-oatmeal-raisin-cookies-main.jpg](https://i2.wp.com/www.twosisterscrafting.com/wp-content/uploads/2017/08/the-best-ever-oatmeal-raisin-cookies-main.jpg)
+
+Macadamia Nut: [https://www.thechunkychef.com/wp-content/uploads/2015/05/Soft-and-Chewy-White-Chocolate-Macadamia-Nut-Cookies-8.jpg](https://www.thechunkychef.com/wp-content/uploads/2015/05/Soft-and-Chewy-White-Chocolate-Macadamia-Nut-Cookies-8.jpg)
+
+Snickerdoodle: [https://reallifedinner.com/wp-content/uploads/2018/08/The-Best-Snickerdoodle-Cookies-1.jpg](https://reallifedinner.com/wp-content/uploads/2018/08/The-Best-Snickerdoodle-Cookies-1.jpg)
+
+Sugar: [https://images-gmi-pmc.edge-generalmills.com/23ae49ca-f44f-4693-80da-5467361bfa2f.jpg](https://images-gmi-pmc.edge-generalmills.com/23ae49ca-f44f-4693-80da-5467361bfa2f.jpg)
+
+Chocolate Chip: [https://images-gmi-pmc.edge-generalmills.com/087d17eb-500e-4b26-abd1-4f9ffa96a2c6.jpg](https://images-gmi-pmc.edge-generalmills.com/087d17eb-500e-4b26-abd1-4f9ffa96a2c6.jpg)
+{% endtab %}
+{% endtabs %}
+
+
+
+
+
+
+
+
 
