@@ -4,7 +4,7 @@ description: >-
   Virtual Summer Immersion Program 2020 curriculum.
 ---
 
-# GWC SIP Notes
+# Introduction
 
 ## Welcome!
 

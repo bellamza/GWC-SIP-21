@@ -1,5 +1,5 @@
 # Table of contents
 
-* [GWC SIP Notes](README.md)
+* [Introduction](README.md)
 * [HTML](html.md)
 
