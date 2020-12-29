@@ -6,6 +6,10 @@ description: >-
 
 # HTML
 
+## Demo Video from our Lesson!
+
+You can view the video [here](https://www.loom.com/share/c6359fa3f7dc489285baf2e2d1d3eb44)!
+
 ## Defining HTML
 
 HTML \(Hypertext Markup Language\) is used to structure the content within a website. This is useful when creating websites because it not only makes it possible to display content such as text, images, videos, links, and so on, but it also helps keep everything organized and sectioned off. 
